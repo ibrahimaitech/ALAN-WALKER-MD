@@ -2,46 +2,26 @@
 
 <center>
 
-<img alt=🪄🍪 height="300" src="https://i.imgur.com/RCMg1aL.jpg">
+<img alt=🪄🍪 height="300" src="https://telegra.ph/file/3fbb61e6e4444353bf691.jpg">
 
 </center>
 
-<h1 align="center">OREO BOT</h1>
+<h1 align="center">ALAN;WALKER-MD</h1>
 
 
 
-<p align="center">
-
- <a href="#"><img title="OREO-BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/shizothetechie"><img title="Author" src="https://img.shields.io/badge/AUTHOR-shizothetechie-green.svg?style=for-the-badge&logo=github"></a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=shizothetechie&color=brightgreen" />
-
-</p>
 
 
 
 ## ```Connect With Me```
 
-<a href="https://api.whatsapp.com/send?phone=919637987574&text=hello+shizo+devs+❤️✨"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://instagram.com/shizo_the_techie"><img src="https://img.shields.io/badge/Connect on instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://wa.me/message/74F2PC4JA4F3P1&text=hello+shizo+devs+❤️✨"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://"><img src="https://img.shields.io/badge/Connect on ine-badge&logo=instagram&logoColor=white"></a>
 
 ## ```Bot Support Groups```
 
-<a href="https://chat.whatsapp.com/DWqdPuQ0yFkKyf1SzZ0k9Y"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-<a href="https://whatsapp.com/channel/0029VaCkzkr3wtb1uYWiRz2o"><img src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-
-
-
-
-
----------
 
 
 
@@ -65,7 +45,7 @@
 1. Customize the Given Codes according to Your System 🧑‍💻
 2. We are not responsible for any kind of Your loss 🤧
 3. Do not recode or modify obfuscated or encrypted codes to avoid errors & bugs 🐛
-4. Atleast Mention Name "Shizo The Techie" to appreciate my work 🥺
+4. Atleast Mention Name "Ibrahim-Tech" to appreciate my work 🥺
 5. Do not sell ❌
 
 ---------
@@ -80,7 +60,7 @@
 # 🔥 MAIN SETUP
 
 1. Fork The OREO-BOT Repository 
-<a href="https://github.com/shizothetechie/OREO-BOT/fork"><img title="OREO BOT" src="https://img.shields.io/badge/FORK OREO BOT-h?color=orange&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main"><img title="ALAN;WALKER-MD" src="https://img.shields.io/badge/FORK ALAN;WALKER-MD-h?color=orange&style=for-the-badge&logo=stackshare"></a>
 
 
 
@@ -102,30 +82,13 @@
 
 
 
-## 🪄🍪🔥 INSTALL OREO-BOT ON TERMINAL
-
-##### Requirements for Terminal Setup
-```
-1. Termux
-2. Quick Edit
-3. Material File Manager
-4. Session (creds.json)
-```
-
-• For the First Time SetUp
-
-```
-
-apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install yarn && pkg install imagemagick -y && git clone https://github.com/shizothetech/oreo-bot.git && cd oreo-bot && yarn install && node .
-
-```
 
 • To Start
 ```
 cd oreo-bot && node .
 ```
 
-## 🥵🔥 INSTALL OREO-BOT ON HEROKU (EASIEST WAY)
+## 🥵🔥 INSTALL ALAN;WALKER-MD ON HEROKU (EASIEST WAY)
 
 ##### Requirements For 1 click Setup 
 
@@ -144,28 +107,4 @@ cd oreo-bot && node .
 
 
 
-## CREDITS 
-<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
-<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="70" height="70" alt="adiwajshing"/></a>
-
-<div><button id="boton" type="button">Base  - By Shizo The Techie (ShizoBot)</button></div>
-<a href="https://github.com/shizothetechie"><img src="https://github.com/shizothetechie.png" width="70" height="70" alt="adiwajshing"/></a>
-
-
-
-## `Main Dev` 
-<a href="https://github.com/shizothetechie"><img src="https://github.com/shizothetechie.png" width="100" height="100" alt="ShizoDevs"/></a>
-  
-`OREO-BOT - By Shizo The Techie`
-
-### CONTRIBUTORS
-<a href="https://github.com/dev-shizo"><img src="https://github.com/dev-shizo.png" width="85" height="85" alt="Shizo Devs"/></a>
-
-<a href="https://github.com/syntax-king"><img src="https://github.com/syntax-king.png" width="85" height="85" alt="Subham"/></a>
-
-<a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="85" height="85" alt="Xeon"/></a>
-
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="85" height="85" alt="Guru"/></a>
-
-<a href="https://github.com/kai0071"><img src="https://github.com/kai0071.png" width="85" height="85" alt="Achintya"/></a>
 
