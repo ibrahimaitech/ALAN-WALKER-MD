@@ -56,7 +56,7 @@
 
 # 🔥 MAIN SETUP
 
-1. Fork The OREO-BOT Repository 
+1. Fork The ALAN;WALKER-MD Repository 
 <a href="https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main"><img title="ALAN;WALKER-MD" src="https://img.shields.io/badge/FORK ALAN;WALKER-MD-h?color=orange&style=for-the-badge&logo=stackshare"></a>
 
 
