@@ -15,6 +15,9 @@
 
 ## ```Connect With Me```
 
+## ```Contact me : https://wa.me/message/74F2PC4JA4F3P1
+## ``` Supported group : https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
+
 <a href="https://wa.me/message/74F2PC4JA4F3P1&text=hello+shizo+devs+❤️✨"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://"><img src="https://img.shields.io/badge/Connect on ine-badge&logo=instagram&logoColor=white"></a>
 
@@ -103,7 +106,7 @@ cd oreo-bot && node .
  <a href="https://youtube.com/shorts/-xyT0ib8fis?si=Bpj6soGa7Y39LCKi"> View Tutorial</a><br>
 
 ◉ Deploy Direct on Heroku
-<br> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy-oreobot.onrender.com/)
+<br> [![Deploy](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main/)
 
 
 
