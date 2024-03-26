@@ -15,19 +15,19 @@
         "test2": "nodemon index.js"
     },
     "keywords": [
-    "oreo-bot",
-    "ShizoBot",
+    "alanwalker-md",
+    "Alanwalkermd",
     "WaBot",
     "Termux-WaBot",
     "WaBot-Base"
   ],
-    "homepage": "https://github.com/shizothetechie/oreo-bot",
+    "homepage": "https://github.com/ibrahimaitech/ALAN-WALKER-MD",
     "author": {
         "name": "Ibrahim Adams"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/shizothetechie/oreo-bot.git"
+        "url": "git+https://github.com/ibrahimaitech/ALAN-WALKER-MD.git"
     },
     "bugs": {
         "url": "https://github.com/shizothetechie/oreo-bot/issues"
