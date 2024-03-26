@@ -18,12 +18,6 @@
 ## ```Contact me : https://wa.me/message/74F2PC4JA4F3P1
 ## ``` Supported group : https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
 
-<a href="https://wa.me/message/74F2PC4JA4F3P1&text=hello+shizo+devs+❤️✨"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://"><img src="https://img.shields.io/badge/Connect on ine-badge&logo=instagram&logoColor=white"></a>
-
-## ```Bot Support Groups```
-
-<a href="https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD"><img src="https://img.shields.io/badge/Join support group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 
 
