@@ -6,7 +6,7 @@
 
 </center>
 
-<h1 align="center">ALAN;WALKER-MD</h1>
+<h1 align="center">ALAN-WALKER-MD</h1>
 
 
 
@@ -53,19 +53,11 @@
 
 
 
-## 🥵🔥 INSTALL ALAN;WALKER-MD ON HEROKU (EASIEST WAY)
+## 🥵🔥 INSTALL ALAN-WALKER-MD ON HEROKU (EASIEST WAY)
 
-##### Requirements For 1 click Setup 
 
-``` 
-1. Heroku Account
-2. A WhatsApp Number
-3. Orises Code (session) 
-```
-
-◉ Obtain 𝗰𝗼𝗱𝗲 (session) for Your Number
-     <a href=https://orises-byshizo.onrender.com/pair""><img title="GET 𝗖𝗢𝗗𝗘" src="https://img.shields.io/badge/GET ORISES-h?color=blue&style=for-the-badge&logo=stackshare"></a><br>
- <a href=""> View Tutorial</a><br>
+  ***Click [`Get Session`](https://orises-byshizo.onrender.com/pair/) 
+  
 
 ◉ Deploy Direct on Heroku
  - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main/)***
