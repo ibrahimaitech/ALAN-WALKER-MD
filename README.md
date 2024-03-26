@@ -68,7 +68,7 @@
  <a href=""> View Tutorial</a><br>
 
 ◉ Deploy Direct on Heroku
-<br> [![Deploy](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main/)
+ - ***Now [`DEPLOY`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main/)***
 
 
 
