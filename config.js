@@ -6,14 +6,14 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '254710772666', process.env.OWNER_NAME || 'Developer Ibrahim', true],
+  ['254710772666', 'Ibrahim Tech ✨', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || 'Ibrahim Adams'
+global.botname = process.env.BOT_NAME || 'ALAN;WALKER-MD'
  
  
  //Api's
@@ -26,11 +26,11 @@ global.APIKeys = {
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.stkpack = process.env.BOT_NAME || 'ALAN;WALKER-MD'
+global.stkowner = process.env.OWNER_NAME || '© Ibrahim Tech'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
+global.maker = process.env.MAKER || 'Made with Ibrahim Adams'
 
 //global emojis
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
@@ -45,8 +45,8 @@ global.bug = '*!! Sorry 💢 !!*\nSomething went wrong 🌋'
 global.stop = '*!! 🎭 Unfortunately 💔 !!*\nBot system is not Responding 🙃'
 
 //TimeLines
-global.botdate = `*⫹⫺ Date:*  ${moment.tz('Asia/Kolkata').format('DD/MM/YY')}`
-global.bottime = `*⫹⫺ Time:* ${moment.tz('Asia/Kolkata').format('HH:mm:ss')}`
+global.botdate = `*⫹⫺ Date:*  ${moment.tz('Africa/Nairobi').format('DD/MM/YY')}`
+global.bottime = `*⫹⫺ Time:* ${moment.tz('Africa/Nairobi').format('HH:mm:ss')}`
 
 //Hosting Management
 global.serverHost = 1
