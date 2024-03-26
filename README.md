@@ -63,8 +63,8 @@
 3. Orises Code (session) 
 ```
 
-◉ Obtain Orises (session) for Your Number
-     <a href="https://orises-byshizo.onrender.com/"><img title="GET ORISES" src="https://img.shields.io/badge/GET ORISES-h?color=blue&style=for-the-badge&logo=stackshare"></a><br>
+◉ Obtain 𝗰𝗼𝗱𝗲 (session) for Your Number
+     <a href=https://orises-byshizo.onrender.com/pair""><img title="GET 𝗖𝗢𝗗𝗘" src="https://img.shields.io/badge/GET ORISES-h?color=blue&style=for-the-badge&logo=stackshare"></a><br>
  <a href=""> View Tutorial</a><br>
 
 ◉ Deploy Direct on Heroku
