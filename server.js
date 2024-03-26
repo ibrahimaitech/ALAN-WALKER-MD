@@ -31,7 +31,7 @@ function connect(conn, PORT) {
   });
 
   app.get('/', async (req, res) => {
-    res.json("OREO-BOT is running");
+    res.json("ALAN;WALKER-MD is running");
   });
 
   server.listen(PORT, async () => {
