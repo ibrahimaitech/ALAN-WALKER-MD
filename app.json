@@ -1,9 +1,9 @@
 {
-  "name": "ShizoBot",
+  "name": "ALAN;WALKER-MD",
   "description": "WhatsApp Bot Base using Baileys. Written in javascript",
   "keywords": [
     "whatsapp bot",
-    "ShizoBot",
+    "ALAN;WALKER-MD",
     "WaBot",
     "Termux-WaBot",
     "WaBot-Base"
@@ -32,12 +32,12 @@
      "BOT_NAME": {
       "description": "Name of Your Bot",
       "required": false,
-      "value": ""
+      "value": "ALAN;WALKER-MD"
     },
 "OWNER_NAME": {
       "description": "owner name of the bot or Your Name",
       "required": false,
-      "value": ""
+      "value": "Ibrahim-Tech"
     },
 "OWNER_NUMBER": {
       "description": "Your number or bot owner number",
@@ -45,7 +45,7 @@
       "value": ""
     },
 "MAKER": {
-      "description": "Maker Text that replace MADE WITH ❤️ BY OREO-BOT",
+      "description": "Maker Text that replace MADE WITH IBRAHIM ADAMS",
       "required": false,
       "value": ""
     }
