@@ -57,7 +57,7 @@ let handler = async (m, { conn, isRowner}) => {
   let neww = performance.now()
   let speed = neww - old
 let str = `Bot is Running from 
-${muptime} \n\n🥵🔥 Support us https://github.com/shizothetechie/oreo-bot`
+${muptime} \n\n🥵🔥 Support us https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main`
 await conn.sendMessage(m.chat, {
       text: str,
       contextInfo: {
