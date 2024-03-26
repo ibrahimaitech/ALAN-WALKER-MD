@@ -51,39 +51,7 @@
 > **Important Notice**: This scripts are not endorsed, created, or affiliated with WhatsApp in any manner. Illegal or wrong Usage of these scripts may result in a ban from WhatsApp. Please use at your own risk.
 
 
----------
 
-
-# 🔥 MAIN SETUP
-
-1. Fork The ALAN;WALKER-MD Repository 
-<a href="https://github.com/ibrahimaitech/ALAN-WALKER-MD/tree/main"><img title="ALAN;WALKER-MD" src="https://img.shields.io/badge/FORK ALAN;WALKER-MD-h?color=orange&style=for-the-badge&logo=stackshare"></a>
-
-
-
-2. Obtain session for Your Number
-     <a href="https://shizo-wapair-connect.onrender.com/pair"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=stackshare"></a><br>
- <a href="https://youtube.com/shorts/-xyT0ib8fis?si=Bpj6soGa7Y39LCKi"> View Tutorial</a><br>
-
-<big> OR <big>
-
-2. Obtain Orises (session) for Your Number
-     <a href="https://orises-byshizo.onrender.com"><img title="GET ORISES" src="https://img.shields.io/badge/GET ORISES-h?color=blue&style=for-the-badge&logo=stackshare"></a><br>
- <a href="https://youtube.com/shorts/-xyT0ib8fis?si=Bpj6soGa7Y39LCKi"> View Tutorial</a><br>
-
-
-
-###### ♦️ Must done Main Setup Before performing any of the following setups ♦️
-
-<br>
-
-
-
-
-• To Start
-```
-cd oreo-bot && node .
-```
 
 ## 🥵🔥 INSTALL ALAN;WALKER-MD ON HEROKU (EASIEST WAY)
 
