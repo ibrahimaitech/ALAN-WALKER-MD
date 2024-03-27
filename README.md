@@ -9,6 +9,17 @@
 <h1 align="center">ALAN-WALKER-MD</h1>
 
 
+●.  ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
+
+●.  ***Get a Mongodb uri from [railway.app](https://railway.app).***
+
+# ```PUBLIC MONGODB URI```
+```
+mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority
+```
+
+
+
 
 
 
