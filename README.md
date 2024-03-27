@@ -67,7 +67,10 @@ mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=
 ## 🥵🔥 INSTALL ALAN-WALKER-MD ON HEROKU (EASIEST WAY)
 
 
-  ***Click [`Get Session`](https://orises-byshizo.onrender.com/pair/) 
+  ***Click [`Get Session`](https://orises-byshizo.onrender.com/pair/) ## pairing code
+  
+
+  ***Click [`Get Session`](https://orises-byshizo.onrender.com/qr) ## Scan Qr
   
 
 ◉ Deploy Direct on Heroku
