@@ -12,7 +12,7 @@
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": ""
+      "value": "postgres://mkzimxuzcguauk:4bc4489f8c20f48eb2013282d59e656b6cbb09af4aa3e61df88510cbe35c5d3a@ec2-44-214-132-149.compute-1.amazonaws.com:5432/defql42ovvc5pj"
       },
     "SESSION_ID": {
       "description": "your session id",
