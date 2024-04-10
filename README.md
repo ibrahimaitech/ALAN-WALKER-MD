@@ -1,3 +1,8 @@
+## Join my channel for updates and get free cc
+<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
+  <img src="https://img.shields.io/badge/Support_channel-0a0a0a?style=for-the-badge&logo=wachannel&logoColor=white">
+</a>
+
 > **Warning**: Do not sell this script.
 
 <center>
